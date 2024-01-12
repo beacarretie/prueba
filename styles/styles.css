@@ -1,0 +1,26 @@
+
+.form-control-dark {
+    border-color: var(#fff)
+  }
+  .form-control-dark:focus {
+    border-color: #fff;
+  }
+  .text-small {
+    font-size: 85%;
+  }
+  
+  .dropdown-toggle:not(:focus) {
+    outline: 0;
+  }
+  .maintxt {
+    background-image: url(banner-image.jpeg);
+    background-size: cover;
+}
+.card-columns {
+  @include media-breakpoint-only(lg) {
+    column-count: 4;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 5;
+  }
+}
