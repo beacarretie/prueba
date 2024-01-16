@@ -11,7 +11,7 @@
   </ol>
 </details>
 
-## Introducció 🎯
+## Introducción 🎯
 Desde producto nos piden crear una carta o menú de un restaurante digital,
 en este caso para poner en práctica los conocimientos adquiridos en materia de
 HTML5, CSS3, CSS Layout (Flexbox & Grid) además de Bootstrap.
@@ -25,7 +25,7 @@ se trate de un establecimiento de restauración.
 Se tendrá especial atención en el diseño y limpieza visual. Y, en este caso, el
 proyecto se llevará a cabo de forma individual.  
 
-## Descripcióm 
+## Descripción 
 Teniendo en cuenta los requisitos, llegamos a la conclusión de que este sería
 el mínimo de vistas convenientes:
 - Vista Home/ Principal / Presentación del establecimiento.
